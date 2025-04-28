@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Hi there,
+
+I am a seasoned Technical Writer with a proven track record of crafting clear, concise documentation for technical products and internal knowledge bases.
+
+* 💼 I'm currently working on my GitHub profile repository.
+* 🍃 I'm currently learning GitHub with help from [docs.github.com](https://docs.github.com/en).
+* 👯 I'm looking to collaborate on documentation for open-source projects using Markdown or reStructuredText.
+* 😄 Pronouns: She/Her.
+
 <!--
 **MV1205/MV1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
